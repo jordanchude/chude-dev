@@ -6863,7 +6863,7 @@ figcaption {
   inset: auto 0% 0%;
 }
 
-.webflow-image-wrapper {
+.image-wrapper {
   flex-direction: column;
   justify-content: center;
   width: 53%;
@@ -6927,7 +6927,7 @@ figcaption {
   margin-bottom: 76px;
 }
 
-.webflow-card-wrapper {
+.card-wrapper {
   flex-direction: column;
   flex: 1;
   justify-content: center;
@@ -7315,7 +7315,7 @@ figcaption {
   line-height: 1.4em;
 }
 
-.more-webflow-templates-sub {
+.more-templates-sub {
   color: #523ff5;
   text-decoration: underline;
 }
@@ -8609,7 +8609,7 @@ figcaption {
     margin-left: -12px;
   }
 
-  .webflow-image-wrapper {
+  .image-wrapper {
     order: 1;
     width: 100%;
   }
@@ -8620,7 +8620,7 @@ figcaption {
     grid-template-columns: 1fr .3fr;
   }
 
-  .webflow-card-wrapper {
+  .card-wrapper {
     min-width: auto;
     padding: 48px 50px;
   }
@@ -10565,7 +10565,7 @@ figcaption {
     grid-template-columns: 1fr minmax(133px, .55fr);
   }
 
-  .webflow-card-wrapper {
+  .card-wrapper {
     padding: 40px 32px;
   }
 
@@ -11724,7 +11724,7 @@ figcaption {
     grid-template-columns: 1fr;
   }
 
-  .webflow-card-wrapper {
+  .card-wrapper {
     padding-left: 24px;
     padding-right: 24px;
   }
