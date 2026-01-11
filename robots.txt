@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://chude.dev/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /template-pages/
+Disallow: /template-backup/
+Disallow: /checkout.html
+Disallow: /paypal-checkout.html
+Disallow: /order-confirmation.html
+Disallow: /401.html
+
+# Allow important pages
+Allow: /index.html
+Allow: /about.html
+Allow: /services.html
+Allow: /pricing.html
+Allow: /contact-pages/
+Allow: /team-members.html
+Allow: /cases-study.html
+
+# Crawl-delay
+Crawl-delay: 1
+
